@@ -11,3 +11,16 @@ const seconds: number = N % 60;
 console.log(
   `${hours} hours, ${remainingMinutes} minutes, ${seconds} seconds have passed since the beginning of the day.`
 );
+
+// Exercise 2
+
+const A: number = 5;
+
+if (A > 0) {
+  console.log("The number A is positive.");
+} else if (A === 0) {
+  console.log("The number A is zero.");
+} else {
+  console.log("The number A is negative.");
+}
+
