@@ -35,10 +35,10 @@ else {
     console.log("C is not an even number.");
 }
 // Exercise 5
-const M = 10; // Replace with the actual value of M
-const s = 5; // Replace with the actual value of s
-const a = 7; // Replace with the actual value of a
-const b = 3; // Replace with the actual value of b
+const M = 10;
+const s = 5;
+const a = 7;
+const b = 3;
 if (a > 0 && b > 0) {
     console.log("The sentence is correct.");
 }

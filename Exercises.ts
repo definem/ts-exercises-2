@@ -50,13 +50,14 @@ if (C % 2 === 0) {
 
 // Exercise 5
 
-const M: number = 10; // Replace with the actual value of M
-const s: number = 5; // Replace with the actual value of s
-const a: number = 7; // Replace with the actual value of a
-const b: number = 3; // Replace with the actual value of b
+const M: number = 10; 
+const s: number = 5; 
+const a: number = 7; 
+const b: number = 3; 
 
 if (a > 0 && b > 0) {
   console.log("The sentence is correct.");
 } else {
   console.log("The sentence is incorrect.");
 }
+
