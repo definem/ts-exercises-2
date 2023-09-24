@@ -77,12 +77,31 @@
 
 // Exercise 7
 
-const a: number = 10; 
-const b: number = 15; 
-const c: number = 20; 
+// const a: number = 10; 
+// const b: number = 15; 
+// const c: number = 20; 
 
-if (b > a && b < c) {
-  console.log("Number B lies between numbers a and c.");
+// if (b > a && b < c) {
+//   console.log("Number B lies between numbers a and c.");
+// } else {
+//   console.log("Number B does not lie between numbers a and c.");
+// }
+
+
+// Exercise 8
+
+
+const a: number = 7;
+const b: number = 12;
+
+if (a % 2 !== 0) {
+  console.log("Number a is an odd number.");
 } else {
-  console.log("Number B does not lie between numbers a and c.");
+  console.log("Number a is not an odd number.");
+}
+
+if (b % 2 !== 0) {
+  console.log("Number b is an odd number.");
+} else {
+  console.log("Number b is not an odd number.");
 }
