@@ -35,3 +35,14 @@ if (B % 2 !== 0) {
 } else {
   console.log("B is not an odd number.");
 }
+
+
+// Exercise 4
+
+const C: number = 8; 
+
+if (C % 2 === 0) {
+  console.log("C is an even number.");
+} else {
+  console.log("C is not an even number.");
+}
