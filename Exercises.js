@@ -61,19 +61,46 @@
 //   console.log("Number B does not lie between numbers a and c.");
 // }
 // Exercise 8
-const a = 7;
-const b = 12;
-if (a % 2 !== 0) {
-    console.log("Number a is an odd number.");
-}
-else {
-    console.log("Number a is not an odd number.");
-}
-if (b % 2 !== 0) {
-    console.log("Number b is an odd number.");
-}
-else {
-    console.log("Number b is not an odd number.");
-}
+// const a = 7;
+// const b = 12;
+// if (a % 2 !== 0) {
+//     console.log("Number a is an odd number.");
+// }
+// else {
+//     console.log("Number a is not an odd number.");
+// }
+// if (b % 2 !== 0) {
+//     console.log("Number b is an odd number.");
+// }
+// else {
+//     console.log("Number b is not an odd number.");
+// }
 // Exercise 9 
 // Cannot solve it 😕
+// Exercise 10
+// bu misolni o'zim ishlamadim 🤕 chunki ishlolmadim ((
+// function areAtLeastTwoNumbersPositive(
+//   a: number,
+//   b: number,
+//   c: number
+// ): boolean {
+//   const positiveCount = [a, b, c].filter((num) => num > 0).length;
+//   return positiveCount >= 2;
+// }
+// function main() {
+//   const a = parseFloat(process.argv[2]);
+//   const b = parseFloat(process.argv[3]);
+//   const c = parseFloat(process.argv[4]);
+//   if (isNaN(a) || isNaN(b) || isNaN(c)) {
+//     console.log("Please provide three valid numbers.");
+//     return;
+//   }
+//   const atLeastTwoPositive = areAtLeastTwoNumbersPositive(a, b, c);
+//   if (atLeastTwoPositive) {
+//     console.log("At least two numbers are positive.");
+//   } else {
+//     console.log("Less than two numbers are positive.");
+//   }
+// }
+// main();
+// Exercise 11
