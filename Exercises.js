@@ -18,3 +18,11 @@ else if (A === 0) {
 else {
     console.log("The number A is negative.");
 }
+// Exercise 3
+const B = 7;
+if (B % 2 !== 0) {
+    console.log("B is an odd number.");
+}
+else {
+    console.log("B is not an odd number.");
+}

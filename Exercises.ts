@@ -12,6 +12,7 @@ console.log(
   `${hours} hours, ${remainingMinutes} minutes, ${seconds} seconds have passed since the beginning of the day.`
 );
 
+
 // Exercise 2
 
 const A: number = 5;
@@ -24,3 +25,13 @@ if (A > 0) {
   console.log("The number A is negative.");
 }
 
+
+// Exercise 3
+
+const B: number = 7; 
+
+if (B % 2 !== 0) {
+  console.log("B is an odd number.");
+} else {
+  console.log("B is not an odd number.");
+}
