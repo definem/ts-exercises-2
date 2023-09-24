@@ -105,3 +105,7 @@ if (b % 2 !== 0) {
 } else {
   console.log("Number b is not an odd number.");
 }
+
+// Exercise 9 
+
+// Cannot solve it 😕
