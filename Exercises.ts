@@ -62,14 +62,27 @@
 // }
 
 
-// Exercise 6
+// // Exercise 6
+
+// const a: number = 10; 
+// const b: number = 7; 
+// const c: number = 5; 
+
+// if (a > b && b > c) {
+//   console.log("The conditions are true.");
+// } else {
+//   console.log("The conditions are false.");
+// }
+
+
+// Exercise 7
 
 const a: number = 10; 
-const b: number = 7; 
-const c: number = 5; 
+const b: number = 15; 
+const c: number = 20; 
 
-if (a > b && b > c) {
-  console.log("The conditions are true.");
+if (b > a && b < c) {
+  console.log("Number B lies between numbers a and c.");
 } else {
-  console.log("The conditions are false.");
+  console.log("Number B does not lie between numbers a and c.");
 }
